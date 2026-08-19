@@ -1,0 +1,4 @@
+# Redirect install shorthand directly to Shopify App Store listing
+/install    https://apps.shopify.com/yappi-ai-sales-chatbot-faq   302
+/app        https://apps.shopify.com/yappi-ai-sales-chatbot-faq   302
+/shopify    https://apps.shopify.com/yappi-ai-sales-chatbot-faq   302
